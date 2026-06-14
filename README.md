@@ -6,14 +6,6 @@ The platform transforms study materials into interactive learning experiences th
 
 ---
 
-# Demo Video
-
-🎥 Watch StudyFlow in action:
-
-[Watch StudyFlow Demo](studyflow.mp4)
-
----
-
 # Screenshots
 
 ## Landing Page
